@@ -73,8 +73,8 @@ margin-left:auto;
 }
 
 .btn {
-    width: 105px;
-    height: 42px;
+    width: 250px;
+    height: 78px;
     flex-shrink: 1;
     border-radius: 70px;
     border: 1px solid black;
@@ -94,6 +94,21 @@ margin-left:auto;
 }
 
 .btn-header {
-    margin: 10px 30px;
+    margin: 5px 6px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.statistic {
+    width: 1400px;
+    height: 80px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: #874FFF;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.footer {
+    height: 100px;
+    background-color: #D9D9D9;
 }
